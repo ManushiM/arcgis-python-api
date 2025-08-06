@@ -1,5 +1,8 @@
 [workspace]
 authors = ["Esri Python <python@esri.com>"]
+# NOTE: Usage of `main` channel is governed by Anaconda, Inc. terms of service
+# Please ensure you are in compliance
+# See https://legal.anaconda.com/policies/en/#terms-of-service
 channels = ["esri", "main"]
 channel-priority = "disabled"
 name = "arcgis-python-api"
