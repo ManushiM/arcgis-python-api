@@ -28,3 +28,5 @@ Push to your _private_ AWS ECR instance, and configure lambda to run from this c
 ## AzureFunctionsBaseImage
 
 The AzureFunctionsBase image has been deprecated in favor of using the standard runtime for Azure Functions development.
+
+See `samples/devops_azure_functions` for a sample using the standard runtime deployment.
